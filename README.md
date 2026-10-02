@@ -8,14 +8,14 @@ booth_multiplier/: a parameterized (default 8-bit) signed radix-2 Booth multipli
 
 Other designs
 Folder	Description
-carry_lookahead_adder/	Carry-lookahead adder
+carry_look_ahead_adder/	Carry-lookahead adder
 counter_7bit/	7-bit counter
 sequence_detector/	Sequence detector
 d_flipflop/	D flip-flop
 jk_flipflop/	JK flip-flop
-sr_flipflop/	SR flip-flop
+sr_flip_flop/	SR flip-flop
 half_adder/	Half adder
-mux_2x1/	2:1 multiplexer
+MUX_2X1/	2:1 multiplexer
 mux_4x1/	4:1 multiplexer
 Tools
 Verilog HDL
